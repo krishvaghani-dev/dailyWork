@@ -1,7 +1,7 @@
 import React from 'react';
 import { Outlet } from 'react-router-dom';
-import Header from '../../common/Header/index';
-import Footer from '../../common/Footer/index';
+import Header from '../../common/header/index';
+import Footer from '../../common/footer/index';
 
 export default function defaultLayout() {
     return (
